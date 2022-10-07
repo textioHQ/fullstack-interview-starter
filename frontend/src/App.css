@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  max-width: 400px;
+  margin: 100px auto;
+  gap: 50px;
+  font-size: 18px;
+}
+
+textarea {
+  width: 100%;
+}

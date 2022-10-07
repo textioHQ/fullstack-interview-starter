@@ -1,0 +1,22 @@
+{
+    "the lazy dog": {
+        "color": "#DFF094",
+        "description": "Used often at your company"
+    },
+    "and a cat": {
+        "color": "#E5CC93",
+        "description": "Used rarely at your company"
+    },
+    "the quick brown fox jumped over": {
+        "color": "#E5CC93",
+        "description": "Used rarely at your company"
+    },
+    "quick brown fox jump": {
+        "color": "#C2E6FD",
+        "description": "Used sometimes at your company"
+    },
+    "some ice cream": {
+        "color": "#C2E6FD",
+        "description": "Used sometimes at your company"
+    }
+}
