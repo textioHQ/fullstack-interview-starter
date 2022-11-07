@@ -1,22 +1,27 @@
 {
     "the lazy dog": {
         "color": "#DFF094",
-        "description": "Used often at your company"
+        "description": "Appeals to some",
+        "priority": 1
     },
     "and a cat": {
         "color": "#E5CC93",
-        "description": "Used rarely at your company"
+        "description": "Appeals to few",
+        "priority": 2
     },
     "the quick brown fox jumped over": {
         "color": "#E5CC93",
-        "description": "Used rarely at your company"
+        "description": "Appeals to few",
+        "priority": 2
     },
     "quick brown fox jump": {
         "color": "#C2E6FD",
-        "description": "Used sometimes at your company"
+        "description": "Appeals to most",
+        "priority": 0
     },
     "some ice cream": {
         "color": "#C2E6FD",
-        "description": "Used sometimes at your company"
+        "description": "Appeals to most",
+        "priority": 0
     }
 }
